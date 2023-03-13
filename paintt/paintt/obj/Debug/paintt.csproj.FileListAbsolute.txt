@@ -1,0 +1,11 @@
+D:\VS Projects\paintt\paintt\bin\Debug\paintt.exe.config
+D:\VS Projects\paintt\paintt\bin\Debug\paintt.exe
+D:\VS Projects\paintt\paintt\bin\Debug\paintt.pdb
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.csproj.AssemblyReference.cache
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.Form1.resources
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.Properties.Resources.resources
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.csproj.GenerateResource.cache
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.csproj.CoreCompileInputs.cache
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.exe
+D:\VS Projects\paintt\paintt\obj\Debug\paintt.pdb
